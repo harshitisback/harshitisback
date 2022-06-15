@@ -1,4 +1,4 @@
-# 💫About Me :
+# ⛄💫About Me :
 Hello, my name is Harshit Tiwari, and I am a second-year student at Vellore Institute of Technology University. 
 The greatest term to describe me is a good learner, and I am now learning and developing myself daily. Overall, 
 numerous adjectives can be used to define me in many disciplines,
@@ -16,3 +16,11 @@ but in terms of technical fields, I would characterize myself as an Android App 
 
 ### ✍️A Simple Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## contact me
+|Name|Email|
+|----|----|
+|Harshit Tiwari|amankumartiwari1502<br>@gmail.com|
+
+![Busy](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
