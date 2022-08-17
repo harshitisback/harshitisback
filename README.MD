@@ -1,5 +1,5 @@
 # ⛄💫About Me :
-Hello, my name is Harshit Tiwari, and I am a second-year student at Vellore Institute of Technology University. 
+Hello, my name is Harshit Tiwari, and I am a Pre-Final Year student at Vellore Institute of Technology University. 
 The greatest term to describe me is a good learner, and I am now learning and developing myself daily. Overall, 
 numerous adjectives can be used to define me in many disciplines,
 but in terms of technical fields, I would characterize myself as an Android App Developer and a Java Application Developer.
