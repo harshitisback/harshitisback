@@ -2,7 +2,7 @@
 Hello, my name is Harshit Tiwari, and I am a Pre-Final Year student at Vellore Institute of Technology University. 
 The greatest term to describe me is a good learner, and I am now learning and developing myself daily. Overall, 
 numerous adjectives can be used to define me in many disciplines,
-but in terms of technical fields, I would characterize myself as an Android App Developer and a Java Application Developer.
+but in terms of technical fields, I would characterize myself as an Android App and Web Developer.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100024490362216) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tdharshit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-tiwari-5a428b201/) 
