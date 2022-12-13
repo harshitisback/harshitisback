@@ -1,4 +1,7 @@
-![image](https://user-images.githubusercontent.com/77660268/207309309-b42e1a12-8b52-4f06-af6e-b4568202d0f3.png)
+
+
+![harshitisback1](https://user-images.githubusercontent.com/77660268/207312568-4ff1cffe-79ff-44c3-99be-f997a9782f5b.png)
+
 
 # ⛄💫About Me :
 Hello, my name is Harshit Tiwari, and I am a Pre-Final Year student at Vellore Institute of Technology University. 
