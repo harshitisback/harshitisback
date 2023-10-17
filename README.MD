@@ -19,7 +19,7 @@ but in terms of technical fields, I would characterize myself as an App and Web 
 ## contact me
 |Name|Email|
 |----|----|
-|Tapesh |tapeshchahar2002<br>@gmail.com|
+|Harshit Tiwari |amankumartiwari1502<br>@gmail.com|
 
 ![Busy](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
